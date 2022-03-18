@@ -13,6 +13,10 @@ gem "rails-controller-testing"
 # Use sqlite3 as the database for Active Record
 gem "sqlite3", "~> 1.4"
 gem 'bcrypt'
+gem 'faker'
+
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
